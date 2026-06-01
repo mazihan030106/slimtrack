@@ -2,7 +2,7 @@
   "name": "SlimTrack · 减肥记录",
   "short_name": "SlimTrack",
   "description": "私人减肥记录助手 — 体重、运动、饮食一站搞定",
-  "start_url": "/",
+  "start_url": "/slimtrack/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#f5f7f4",
@@ -18,5 +18,6 @@
       "sizes": "512x512",
       "type": "image/png"
     }
-  ]
+  ],
+  "scope": "/slimtrack/"
 }
