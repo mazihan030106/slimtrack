@@ -1,10 +1,10 @@
 const CACHE = 'slimtrack-v1';
 const ASSETS = [
-  '/slimtrack/',
-  '/slimtrack/index.html',
-  '/slimtrack/manifest.json',
-  '/slimtrack/icon-192.png',
-  '/slimtrack/icon-512.png',
+  './',
+  './index.html',
+  './manifest.json',
+  './icon-192.png',
+  './icon-512.png',
   'https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js'
 ];
 
